@@ -1,0 +1,16 @@
+body {
+
+  background: #09f;
+
+  /* Center element */
+  display: grid;
+  place-content: center;
+  height: 90vh;
+}
+
+.box {
+  width: 120px;
+  height: 120px;
+  border-radius: 4px;
+  background: #fff;
+}
