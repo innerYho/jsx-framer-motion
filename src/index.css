@@ -9,8 +9,19 @@ body {
 }
 
 .box {
+  display: flex;
+  align-items: center;
+  place-content: center;
+  font-weight: bold;
+  font-size: 21px;
   width: 120px;
   height: 120px;
   border-radius: 4px;
   background: #fff;
+}
+
+button {
+  /* background: ; */
+  border: none;
+  border-radius: 25px;
 }

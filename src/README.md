@@ -1,6 +1,6 @@
 taked to https://www.youtube.com/watch?v=4HnLIAX0EoM
 Midulive
-35:30
+1:07:
 
 npm init vite@latest
 versión exacta
